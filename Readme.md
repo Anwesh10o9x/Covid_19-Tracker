@@ -1,1 +1,1 @@
-This is just a simple Covid-19 tracker using pure JavaScript
+This is just a simple Covid-19 tracker using pure JavaScript.
